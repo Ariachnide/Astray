@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab6df410168a4c24fab3b104c7932fc7, type: 3}
+  m_Name: Bomb
+  m_EditorClassIdentifier: 
+  elementName: bomb
+  displayName: Bombes
+  description: "Les bombes explosent apr\xE8s un bref d\xE9lai"
+  icon: {fileID: 21300000, guid: f4f2201bfc621f04caeee17b472b30c2, type: 3}
+  type: 3

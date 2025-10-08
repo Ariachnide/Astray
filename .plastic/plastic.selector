@@ -1,0 +1,4 @@
+repository "Astray@BravesBetes@cloud"
+  path "/"
+    br "/main"
+    co "/main"

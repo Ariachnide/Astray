@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Wall
+  - HeartsUI
+  - AllyProjectile
+  - HostileProjectile
+  - CollectiblesCommon
+  - PlayerInteraction
+  - AllySpell
+  - HostileSpell
+  - BreakableElm
+  - ManaUI
+  - StaticElm
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - IsolatedActors
+  - Actors
+  - ActorBorders
+  - 
+  - Sub-level-only
+  - Mid-level-only
+  - 
+  - 
+  - 
+  - 
+  - No-collision
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sub-Level
+    uniqueID: 761078219
+    locked: 0
+  - name: Mid-Level
+    uniqueID: 4178622941
+    locked: 0
+  - name: Top-Level
+    uniqueID: 3626918109
+    locked: 0

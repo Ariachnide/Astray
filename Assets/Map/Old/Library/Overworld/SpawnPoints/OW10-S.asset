@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98f6cdb8e0fc91246b51d321f077e8f2, type: 3}
+  m_Name: OW10-S
+  m_EditorClassIdentifier: 
+  position: {x: 24.5, y: 6.75}
+  behavior: 0
+  walkDirection: 0
+  specialDetails: 
+  locationName: Prairies
+  area: {fileID: 11400000, guid: 2817e6bd803c601448e579e0d7b357e5, type: 2}
